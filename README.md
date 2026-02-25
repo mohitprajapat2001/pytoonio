@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![PyPI](https://img.shields.io/badge/PyPI-pytoonio-orange?style=for-the-badge&logo=pypi)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pytoonio?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pytoonio)
 
 **A lightweight Python library for converting between JSON, XML, and TOON — a modern,
 human-friendly data format.**
